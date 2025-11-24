@@ -1,0 +1,71 @@
+
+html{
+    background-color: rgba(108, 136, 186, 75);
+    margin: 0;
+    color: floralwhite;
+    font-size: 20px;
+   
+    
+    
+
+}
+
+
+.heading{
+font-size: 75px;
+color: rgba(255, 190, 164, 100);
+font-weight: 300;
+text-align: center;
+}
+
+.second-heading{
+    margin-top: 70px;
+    text-align: center;
+}
+
+.link-list{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+
+.nav-link{
+    margin: 0 8px;
+    text-decoration: none;
+    color: rgba(255, 190, 164, 100);
+    padding: 4px 12px;
+    font-weight: 600;
+    font-size: 25px;
+    background-color: aliceblue;
+    border-radius: 14px;
+}
+
+.main{
+    margin: 50px;
+    padding-top: 20px;
+    font-size: 25px;
+    
+
+}
+
+
+
+.hero-image{
+      width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
