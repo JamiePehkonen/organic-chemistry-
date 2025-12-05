@@ -1,0 +1,26 @@
+
+.div{
+    display: flex;
+    justify-content: right;
+}
+
+.main{
+    
+    margin: 50px;
+    padding-top: 0px;
+    font-size: 25px;
+    line-height: 40px;
+
+}
+
+
+.bredts-rule{
+    width: 600px;
+    height: 400px;
+    float: right;
+    display: block;
+    border-radius: 14px;
+   
+}
+
+  

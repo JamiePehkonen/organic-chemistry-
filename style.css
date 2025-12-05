@@ -4,11 +4,15 @@ html{
     margin: 0;
     color: floralwhite;
     font-size: 20px;
+    font-family: "Encode Sans", sans-serif;
+    
+
    
     
     
 
 }
+
 
 
 .heading{
@@ -21,12 +25,14 @@ text-align: center;
 .second-heading{
     margin-top: 70px;
     text-align: center;
+    font-size: 40px;
 }
 
 .link-list{
     display: flex;
     list-style-type: none;
     justify-content: center;
+    padding: 0;
 }
 
 .nav-link{
@@ -35,7 +41,7 @@ text-align: center;
     color: rgba(255, 190, 164, 100);
     padding: 4px 12px;
     font-weight: 600;
-    font-size: 25px;
+    font-size: 24px;
     background-color: aliceblue;
     border-radius: 14px;
 }
@@ -44,6 +50,8 @@ text-align: center;
     margin: 50px;
     padding-top: 20px;
     font-size: 25px;
+    line-height: 40px;
+
     
 
 }
@@ -54,7 +62,38 @@ text-align: center;
       width: 100%;
     height: auto;
     display: block;
+    border-radius: 14px;
+
+
 }
+
+
+.subheading{
+    color: rgba(255, 190, 164, 100);
+    font-size: 20px;
+    
+   
+
+}
+
+
+.footer{
+      list-style-type: none;
+      margin: 0 8px;
+    text-decoration: none;
+    color: rgba(255, 190, 164, 100);
+    padding: 4px 12px;
+    font-weight: 600;
+    font-size: 25px;
+    background-color: aliceblue;
+    border-radius: 14px;
+     display: flex;
+     justify-content: center;
+
+}
+
+
+
 
 
 
