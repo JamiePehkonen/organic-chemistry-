@@ -1,15 +1,12 @@
 
-.div{
-    display: flex;
-    justify-content: right;
-}
+
 
 .main{
     
     margin: 50px;
     padding-top: 0px;
     font-size: 25px;
-    line-height: 41px;
+    line-height: 50px;
 
 }
 
@@ -22,5 +19,8 @@
     border-radius: 14px;
    
 }
+
+
+
 
   

@@ -12,7 +12,8 @@ padding-bottom: 41px;}
     margin: 50px;
     padding-top: 0px;
     font-size: 25px;
-    line-height: 40px;
+    line-height: 50px;
+    max-width: 1000px;
 
 }
 
@@ -21,15 +22,15 @@ padding-bottom: 41px;}
 .concervation-of-mass{
     width: 600px;
     height: 400px;
-    float: right;
-    display: block;
     border-radius: 14px;
 }
 
 
 .h2{
-    padding-bottom: 40px;
+    padding-bottom: 60px;
     font-size: 40px;
+    text-align: center;
+  
 }
 
 
