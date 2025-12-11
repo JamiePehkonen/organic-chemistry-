@@ -7,6 +7,7 @@
     padding-top: 0px;
     font-size: 25px;
     line-height: 50px;
+    max-width: 1200px;
 
 }
 
@@ -17,7 +18,17 @@
     float: right;
     display: block;
     border-radius: 14px;
+    margin-left: 50px;
+    margin-bottom: 50px;
    
+}
+
+
+.div{
+    float: right;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    color: rgba(255, 190, 164, 100);
 }
 
 
