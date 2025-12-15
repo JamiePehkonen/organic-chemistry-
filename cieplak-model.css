@@ -1,26 +1,12 @@
 
-
-
 .main{
     
     margin: 50px;
     padding-top: 0px;
     font-size: 25px;
-    line-height: 55px;
+    line-height: 60px;
     max-width: 1200px;
 
-}
-
-
-.bredts-rule{
-    width: 600px;
-    height: 400px;
-    float: right;
-    display: block;
-    border-radius: 14px;
-    margin-left: 50px;
-    margin-bottom: 50px;
-   
 }
 
 
@@ -34,4 +20,15 @@
 
 
 
-  
+.cieplak-model{
+
+
+    width: 700px;
+    height: 500px;
+    float: right;
+    display: block;
+    border-radius: 14px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+
+}
